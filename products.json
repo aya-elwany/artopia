@@ -1,0 +1,211 @@
+{"shop" : {
+    "frames": 
+    [
+        {
+            "name": "Cat-lover",
+            "imageLink": "Frames/cat.WEBP",
+            "description": "Bosbos and Rana",
+            "price": "250 EGP"
+        },
+        {
+            "name": "lover-frame",
+            "imageLink": "Frames/love.JPG",
+            "description": "The Story begins here..",
+            "price": "200 EGP"
+        },
+        {
+            "name": "friends-lover",
+            "imageLink": "Frames/friendss.png",
+            "description": "Collect beautiful moments",
+            "price": "230 EGP"
+        },
+        {
+            "name": "friend-lover",
+            "imageLink": "Frames/friend..JPG",
+            "description": "You and I more than Friends",
+            "price": "230 EGP"
+        },
+        {
+            "name": "friend-lover",
+            "imageLink": "Frames/friends3.JPG",
+            "description": "My dear Friend",
+            "price": "230 EGP"
+        },
+        {
+            "name": "new-baby",
+            "imageLink": "Frames/newborn.png",
+            "description": "Welcome to the World",
+            "price": "200 EGP"
+        },
+        {
+            "name": "love-couples",
+            "imageLink": "Frames/married.WEBP",
+            "description": "Little moments,Big memories",
+            "price": "240 EGP"
+        },
+        {
+            "name": "love",
+            "imageLink": "Frames/love2.png",
+            "description": "Endless Love",
+            "price": "240 EGP"
+        },
+        {
+            "name": "vet-doctor",
+            "imageLink": "Frames/vet.png",
+            "description": "Kindness",
+            "price": "250 EGP"
+        },
+        {
+            "name": "dr-haidi",
+            "imageLink": "Frames/dr.haidi.JPG",
+            "description": "Smiling Through Life",
+            "price": "200 EGP"
+        },
+        {
+            "name": "dad-frame",
+            "imageLink": "Frames/dad.jpg",
+            "description": "First Love, Dad",
+            "price": "250 EGP"
+        }
+    ]
+    ,
+    "hoops" : [
+        {
+            "name": "story-lover",
+            "imageLink": "hoops/date.jpg",
+            "description": "You and I",
+            "price": "380 EGP"
+        },
+        {
+            "name": "friend-lover",
+            "imageLink": "hoops/friend.jpg",
+            "description": "My dear Friend",
+            "price": "320 EGP"
+        },
+        {
+            "name": "Friends",
+            "imageLink": "hoops/friends.JPG",
+            "description": "Joey and Chandler",
+            "price": "300 EGP"
+        },
+        {
+            "name": "love-couples",
+            "imageLink": "hoops/monica.jpg",
+            "description": "Monica and Chandler",
+            "price": "300 EGP"
+        },
+        {
+            "name": "love you",
+            "imageLink": "hoops/selfie.jpg",
+            "description": "Love you",
+            "price": "380 EGP"
+        },
+        {
+            "name": "amitie",
+            "imageLink": "hoops/amitie.jpg",
+            "description": "Amitie logo",
+            "price": "300 EGP"
+        },
+        {
+            "name": "attack on titan",
+            "imageLink": "hoops/levi.jpg",
+            "description": "Attack on titan, Levi",
+            "price": "340 EGP"
+        },
+        {
+            "name": "semsem",
+            "imageLink": "hoops/semsem.JPG",
+            "description": "Kermit the Frog & Fozzie Bear",
+            "price": "330 EGP"
+        },
+        {
+            "name": "Toy Story",
+            "imageLink": "hoops/toy story.jpg",
+            "description": "Toy Story",
+            "price": "330 EGP"
+        },
+        {
+            "name": "Monsters, Inc.",
+            "imageLink": "hoops/boo.jpg",
+            "description": "Monsters, Inc.",
+            "price": "330 EGP"
+        },
+        {
+            "name": "bayern-munchen",
+            "imageLink": "hoops/bayern.JPG",
+            "description": "FC Bayern München",
+            "price": "350 EGP"
+        },
+        {
+            "name": "mo salah",
+            "imageLink": "hoops/mo salah.jpg",
+            "description": "Mo Salah",
+            "price": "250 EGP"
+        },
+        {
+            "name": "mirror",
+            "imageLink": "hoops/mirror.jpg",
+            "description": "A hoop with a mirror",
+            "price": "600 EGP"
+        },
+        {
+            "name": "mikey and Minney",
+            "imageLink": "hoops/miky.jpg",
+            "description": "Mickey & Minnie",
+            "price": "500 EGP"
+        }
+    ],
+    "caps"  : [
+        {
+            "name": "Graduation Cap",
+            "imageLink": "caps/cat.jpg",
+            "description": "cat",
+            "price": "250 EGP"
+        },
+        {
+            "name": "Graduation Cap",
+            "imageLink": "caps/duck.jpg",
+            "description": "duck",
+            "price": "250 EGP"
+        },
+        {
+            "name": "Graduation Cap",
+            "imageLink": "caps/finally.PNG",
+            "description": "Finally",
+            "price": "250 EGP"
+        },
+        {
+            "name": "Graduation Cap",
+            "imageLink": "caps/stitch.PNG",
+            "description": "Stitch",
+            "price": "250 EGP"
+        },
+        {
+            "name": "Graduation Cap",
+            "imageLink": "caps/Harry potter cap.jpg",
+            "description": "harry potter",
+            "price": "250 EGP"
+        },
+        {
+            "name": "Graduation Cap",
+            "imageLink": "caps/engineer.jpg",
+            "description": "engineer",
+            "price": "250 EGP"
+        },
+        {
+            "name": "Graduation Cap",
+            "imageLink": "caps/eren.jpg",
+            "description": "eren",
+            "price": "250 EGP"
+        },
+        {
+            "name": "Graduation Cap",
+            "imageLink": "caps/dory.PNG",
+            "description": "dory",
+            "price": "250 EGP"
+        }
+    ]
+}
+}
+
+

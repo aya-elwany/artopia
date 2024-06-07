@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
     closeWishlistButton.addEventListener('click', function(event) {
         event.preventDefault();
-        cartSection.style.display = 'none';
+        wishlistSection.style.display = 'none';
     });
     document.querySelector('.fa-cart-shopping').addEventListener('click', function() {
         cartSection.style.display = 'block';
@@ -109,7 +109,8 @@ document.addEventListener("DOMContentLoaded", function() {
     document.querySelector('.fa-heart').addEventListener('click', function() {
         wishlistSection.style.display = 'block';
     });
-    document.getElementById('confirm-order').addEventListener('click', function() {
+    document.getElementById('confirm-order').addEventListener('click', function(event) {
+        event.preventDefault();
         alert('Your order has been confirmed!');
     });
 
